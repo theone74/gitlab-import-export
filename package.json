@@ -1,0 +1,16 @@
+{
+  "name": "gitlab-import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {"gitlab-ie": "./index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton R.",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^13.2.2"
+  }
+}
